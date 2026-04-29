@@ -30,7 +30,8 @@ Built with **React.js** (Frontend) and **Node.js** (Backend)
 ## 📸 Project Screenshots
 
 ### 🏠 Home
-![Home](01-Home.png)
+<img width="1699" height="833" alt="Home" src="https://github.com/user-attachments/assets/5e955dc9-fdb4-404b-bcd8-8714b1ae2157" />
+
 
 ### 🛒 Marketplace
 ![Marketplace](02-Marketplace.png)
