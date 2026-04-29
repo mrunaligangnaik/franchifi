@@ -1,4 +1,4 @@
-<img width="1821" height="858" alt="Marketplace" src="https://github.com/user-attachments/assets/ccf03cb5-1148-44d1-a5a3-d5ae3dfb65ea" /># 🏢 Franchifi - Project Overview
+# 🏢 Franchifi - Project Overview
 
 > A full-stack web platform to discover, manage, and invest in franchise opportunities.
 
